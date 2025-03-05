@@ -9,7 +9,8 @@
 - ✅ **Grok 官网平替**
 - ✅ **详细使用教程**
 
-📌 **快速体验地址**：[Grok3 国内网页版](http://grok.zhuangbishipin.top)
+📌 **快速体验地址**：[Grok3 国内网页版](http://grok.zhuangbishipin.top/?allow=true
+)
 
 ---
 
@@ -20,7 +21,8 @@
 
 ## 🚀 国内如何使用 Grok3？
 ### 📌 方法一：直接访问国内 Grok3 网页版
-1. 打开浏览器，进入 [Grok3 国内网页版](http://grok.zhuangbishipin.top)。
+1. 打开浏览器，进入 [Grok3 国内网页版](http://grok.zhuangbishipin.top/?allow=true
+)。
 2. 无需翻墙，直接注册或登录即可体验。
 3. 享受 Grok3 的强大 AI 功能！
 
