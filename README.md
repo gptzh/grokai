@@ -4,12 +4,12 @@
 想要在国内轻松访问 **Grok3** 并体验其 **中文版** 及 **Grok-3 Reasoning** 功能？本指南为您提供全面的 **Grok3 国内使用教程**，无需翻墙，即可快速上手！
 
 我们将介绍：
-- ✅ 2025/6/27国内可用的 **Grok3 网页版**
+- ✅ 2025/7/3国内可用的 **Grok3 网页版**
 - ✅ **Grok3 国内入口**
 - ✅ **Grok 官网平替**
 - ✅ **详细使用教程**
 
-📌 **快速体验地址**：[Grok3 国内网页版](http://grok.zhuangbishipin.top/?allow=true
+📌 **快速体验地址**：[Grok3 国内网页版](http://chatgpt.btueb.cn/
 )
 
 ---
@@ -21,7 +21,7 @@
 
 ## 🚀 国内如何使用 Grok3？
 ### 📌 方法一：直接访问国内 Grok3 网页版
-1. 打开浏览器，进入 [Grok3 国内网页版](http://grok.zhuangbishipin.top/?allow=true
+1. 打开浏览器，进入 [Grok3 国内网页版](http://chatgpt.btueb.cn/
 )。
 2. 无需翻墙，直接注册或登录即可体验。
 3. 享受 Grok3 的强大 AI 功能！
@@ -42,6 +42,6 @@
 ## 🎯 结语
 本指南致力于帮助国内用户 **轻松体验 Grok3 AI**，无需复杂的网络设置，即可畅享马斯克最新 AI 技术。
 
-🔥 **立即体验**：[Grok3 国内网页版](http://grok.zhuangbishipin.top)
+🔥 **立即体验**：[Grok3 国内网页版](http://chatgpt.btueb.cn/)
 
 如果本教程对您有帮助，欢迎 **⭐Star** 支持，更多 AI 资讯持续更新！
